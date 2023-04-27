@@ -1,0 +1,11 @@
+DBSettings:
+  DBHost: "localhost"
+  DBPort: "5432"
+  DBName: "recipes"
+  DBUsername: "pguser"
+  DBPassword: "pgpwd"
+
+ProgramSettings:
+  bindAddress: "8000"
+  auth: "false"
+  tokenPassword: "6m2CtbWyzLDydzRFnWQFWxQywB8846GAgL7ATdgaja3HAVrfg68XZBNTPYYvPuTV"
